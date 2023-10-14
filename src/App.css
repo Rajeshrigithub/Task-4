@@ -1,0 +1,22 @@
+
+body {
+  background-color: rgba(0, 0, 0, 0.842);
+  color: white; 
+  margin-left:30px;
+}
+
+.UserTable table {
+  border: 2px solid white; 
+  border-collapse: collapse;
+  margin-right: 20px;
+}
+
+
+.UserTable th {
+  border-bottom: 2px solid white;
+  padding: 8px;
+  text-align: left;
+}
+
+
+
